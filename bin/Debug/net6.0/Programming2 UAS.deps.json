@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Programming2 UAS/1.0.0": {
+        "runtime": {
+          "Programming2 UAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programming2 UAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

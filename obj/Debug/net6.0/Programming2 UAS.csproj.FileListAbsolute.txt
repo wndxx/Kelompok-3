@@ -1,0 +1,27 @@
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\appsettings.Development.json
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\appsettings.json
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.staticwebassets.runtime.json
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.exe
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.deps.json
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.runtimeconfig.json
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.pdb
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.AssemblyReference.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.AssemblyInfoInputs.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.AssemblyInfo.cs
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.CoreCompileInputs.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.MvcApplicationPartsAssemblyInfo.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.RazorAssemblyInfo.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.RazorAssemblyInfo.cs
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\bundle\Programming2 UAS.styles.css
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\projectbundle\Programming2 UAS.bundle.scp.css
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.dll
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\refint\Programming2 UAS.dll
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.pdb
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.genruntimeconfig.cache
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\ref\Programming2 UAS.dll
