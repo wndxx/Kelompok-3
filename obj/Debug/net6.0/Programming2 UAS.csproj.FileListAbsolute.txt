@@ -25,3 +25,12 @@ C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\refint\Programming2 UAS.dll
 C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.pdb
 C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.genruntimeconfig.cache
 C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\ref\Programming2 UAS.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Humanizer.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\MySqlConnector.dll
+C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.CopyComplete

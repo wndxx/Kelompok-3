@@ -1,0 +1,115 @@
+@page "/pizza"
+@using modelDB
+@using service
+
+@inject pizzaservice pzz
+
+<PageTitle>MASTER PIZZA HDD</PageTitle>
+<h1> MASTER PIZZA HDD </h1>
+@if (notif != null){
+    <Programming2_UAS.Component.MessageBar Body="@notif"/>
+
+}
+@if(allpzz == null){
+    <p><em>silahkan tunggu.........</em></p>
+}else{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nama pizza</th>
+                <th>Ukuran pizza</th>
+                <th>jenis saus</th>
+                <th>Crust</th>
+                </tr>
+                </thead>
+                <tbody>
+                    @foreach(var p in allpzz){
+                        <tr>
+                            <td>@p.NamaPizza</td>
+                            <td>@p.UkuranPizza</td>
+                            <td>@p.JenisSaus</td>
+                            <td>@p.Crust</td>
+                            <td><button class="btn btn-primary" @onclick"() => selpizza(p)">Select</button>
+                            </td>
+                            </tr>
+
+                    }
+                </tbody>
+                </table>
+
+                <EditForm Model=@pzz OnInvalidSubmit="SaveData">
+                    <DataAnnotationsValidator/>
+
+                    <div class="form-group">
+                        <label for="namapizza">namapizza</label>
+                        <InputText @bind-Value=pz.namapizza class="form-control" id="namapizza"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="ukuranpizza">ukuranpizza</label>
+                            <InputSelect @bind-Value=pz.UkuranPizza class="form-control" id="ukuranpizza">
+                            <option value="1" selected>Besar</option>
+                            <option value="2" selected>kecil</option>
+                            </InputSelect>
+                            </div>
+                            <div class="form-group">
+                                <label for="jenissaus">jenissaus</label>
+                                <InputText @bind-Value=pz.JenisSaus class="form-control" id="jenissaus"/>
+                                </div>
+                                <div class="form-group">
+                                    <label for="crust">crust</label>
+                                    <InputText @bind-Value=pz.Crust class="form-control" id="crust"/>
+                                </div>
+                                @if (pz.Id == 0){
+                                    <input type="submit" class="btn btn-primary" value="Save"/>
+
+                                }else{
+                                    <input type="submit" class="btn btn-primary" value="update"/>
+                                    <button class="btn btn-secondary" @onclick="deletepz">Delete</button>
+                                    <button class="btn btn-secondary" @onclick="cancelpz">Cancel</button>
+                                }
+                </EditForm>
+}
+
+@code {
+    private string notif = null;
+    private List<Pizza>? allpzz;
+
+        private Pizza pz = new Pizza();
+
+        protected override async Task OnInitializedAsync()
+        {
+            allpzz = pzz.GetPizza();
+        }
+        void selpizza(Pizza pz){
+            this.pz = new Pizza(){
+                Id = pz.Id,
+                NamaPizza = pz.NamaPizza,
+                UkuranPizza = pz.UkuranPizza,
+                JenisSaus = pz.JenisSaus,
+                Crust = pz.Crust
+            };
+            void SaveData(EditContext e){
+                if(pz.Id == 0){
+                    pzz.addpizza(pz);
+                    notif = "Pizza Sukses di Save data";
+                    StateHasChanged();
+                }
+                pz = new Pizza ();
+                allpzz = pzz.GetPizza();
+            }
+            void deletepz(){
+                try{
+                    pzz.deletepizza(pz);
+                    pz = new Pizza();
+                    allpzz = pzz.GetPizza();
+                    notif = "sukses delete pizza";
+                    StateHasChanged();
+                }catch{
+                    notif = "gagal delete pizza";
+                }
+            }
+            void cancelpz(){
+                pz = new Pizza();
+            }
+        }
+}
