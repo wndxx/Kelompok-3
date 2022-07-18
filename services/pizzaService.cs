@@ -1,6 +1,6 @@
 using Programming2_UAS.modelDB;
 
-namespace Programming2_UAS.service
+namespace Programming2_UAS.services
 {
     public class pizzaservice
     {
@@ -15,7 +15,7 @@ namespace Programming2_UAS.service
             }
         }
         public void updatepizza(Pizza p) {
-            var e = db.Pizzas.FirstOrDefault(u=>u.Id == p.Id);
+            var e = db.Pizzas.FirstOrDefault(d=>d.Id == p.Id);
             if(e != null){
                 e.NamaPizza = p.NamaPizza;
                 e.UkuranPizza = p.UkuranPizza;

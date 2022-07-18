@@ -1,6 +1,6 @@
 @page "/pizza"
 @using modelDB
-@using service
+@using services
 
 @inject pizzaservice pzz
 
@@ -26,48 +26,48 @@
                     @foreach(var p in allpzz){
                         <tr>
                             <td>@p.NamaPizza</td>
-                            <td>@p.UkuranPizza</td>
+                            <td>@p.ukuranpizzaDeskirpsi</td>
                             <td>@p.JenisSaus</td>
                             <td>@p.Crust</td>
-                            <td><button class="btn btn-primary" @onclick"() => selpizza(p)">Select</button>
+                            <td> <button class="btn btn-primary" @onclick="() => selpizza(p)">Select</button>
                             </td>
                             </tr>
 
                     }
                 </tbody>
                 </table>
-
-                <EditForm Model=@pzz OnInvalidSubmit="SaveData">
+                <EditForm Model=@pzz OnValidSubmit="SaveData">
                     <DataAnnotationsValidator/>
 
                     <div class="form-group">
-                        <label for="namapizza">namapizza</label>
-                        <InputText @bind-Value=pz.namapizza class="form-control" id="namapizza"/>
+                        <label for="nama pizza">nama pizza</label>
+                        <InputText @bind-Value=pz.NamaPizza class="form-control" id="nama pizza"/>
                         </div>
                         <div class="form-group">
-                            <label for="ukuranpizza">ukuranpizza</label>
-                            <InputSelect @bind-Value=pz.UkuranPizza class="form-control" id="ukuranpizza">
+                            <label for="ukuran pizza">ukuran pizza</label>
+                            <InputSelect @bind-Value=pz.UkuranPizza class="form-control" id="ukuran pizza">
                             <option value="1" selected>Besar</option>
                             <option value="2" selected>kecil</option>
                             </InputSelect>
                             </div>
                             <div class="form-group">
-                                <label for="jenissaus">jenissaus</label>
-                                <InputText @bind-Value=pz.JenisSaus class="form-control" id="jenissaus"/>
+                                <label for="jenis saus">jenis saus</label>
+                                <InputText @bind-Value=pz.JenisSaus class="form-control" id="jenis saus"/>
                                 </div>
                                 <div class="form-group">
                                     <label for="crust">crust</label>
                                     <InputText @bind-Value=pz.Crust class="form-control" id="crust"/>
+                                   
                                 </div>
                                 @if (pz.Id == 0){
                                     <input type="submit" class="btn btn-primary" value="Save"/>
-
                                 }else{
                                     <input type="submit" class="btn btn-primary" value="update"/>
-                                    <button class="btn btn-secondary" @onclick="deletepz">Delete</button>
-                                    <button class="btn btn-secondary" @onclick="cancelpz">Cancel</button>
+                                    <button class="btn btn-secondary" @onclick="deletepz">delete</button>
+                                    <button class="btn btn-secondary" @onclick="cancelpz">cancel</button>
                                 }
                 </EditForm>
+                
 }
 
 @code {
@@ -88,13 +88,17 @@
                 JenisSaus = pz.JenisSaus,
                 Crust = pz.Crust
             };
+        }
             void SaveData(EditContext e){
                 if(pz.Id == 0){
                     pzz.addpizza(pz);
                     notif = "Pizza Sukses di Save data";
+                }else{
+                    pzz.updatepizza(pz);
+                    notif = "sukses update Data";
                     StateHasChanged();
                 }
-                pz = new Pizza ();
+                pz = new Pizza();
                 allpzz = pzz.GetPizza();
             }
             void deletepz(){
@@ -112,4 +116,3 @@
                 pz = new Pizza();
             }
         }
-}
