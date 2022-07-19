@@ -9,12 +9,12 @@ namespace Programming2_UAS.services
         public List<Pizza> GetPizza() => db.Pizzas.ToList();
         public void deletepizza(Pizza p){
             var e = db.Pizzas.FirstOrDefault(d=>d.Id == p.Id);
-            if (e != null){
-             db.Pizzas.Remove(e);
-             db.SaveChanges();
+            if(e != null){
+                db.Pizzas.Remove(e);
+                db.SaveChanges();
             }
         }
-        public void updatepizza(Pizza p) {
+        public void updatepizza(Pizza p){
             var e = db.Pizzas.FirstOrDefault(d=>d.Id == p.Id);
             if(e != null){
                 e.NamaPizza = p.NamaPizza;
@@ -25,9 +25,9 @@ namespace Programming2_UAS.services
                 db.SaveChanges();
             }
         }
-        public void addpizza(Pizza p ){
-            db.Pizzas.Add(p);
-            db.SaveChanges();
+        public void addpizza(Pizza p){
+        db.Pizzas.Add(p);
+        db.SaveChanges();
         }
     }
 }

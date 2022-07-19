@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.EntityFrameworkCore;
 using Programming2_UAS.Data;
 using Programming2_UAS.modelDB;
 using Programming2_UAS.services;
