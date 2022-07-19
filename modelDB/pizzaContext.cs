@@ -17,6 +17,7 @@ namespace Programming2_UAS.modelDB
         }
 
         public virtual DbSet<Pizza> Pizzas { get; set; } = null!;
+        public virtual DbSet<Transaksi> Transaksis { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -34,17 +35,16 @@ namespace Programming2_UAS.modelDB
 
             modelBuilder.Entity<Pizza>(entity =>
             {
-                entity.HasNoKey();
-
                 entity.ToTable("pizza");
+
+                entity.Property(e => e.Id)
+                    .HasColumnType("int(11)")
+                    .ValueGeneratedNever()
+                    .HasColumnName("id");
 
                 entity.Property(e => e.Crust)
                     .HasMaxLength(200)
                     .HasColumnName("crust");
-
-                entity.Property(e => e.Id)
-                    .HasColumnType("int(11)")
-                    .HasColumnName("id");
 
                 entity.Property(e => e.JenisSaus)
                     .HasMaxLength(200)
@@ -57,6 +57,25 @@ namespace Programming2_UAS.modelDB
                 entity.Property(e => e.UkuranPizza)
                     .HasColumnType("int(11)")
                     .HasColumnName("ukuran_pizza");
+            });
+
+            modelBuilder.Entity<Transaksi>(entity =>
+            {
+                entity.HasNoKey();
+
+                entity.ToTable("transaksi");
+
+                entity.Property(e => e.Id)
+                    .HasColumnType("int(11)")
+                    .HasColumnName("id");
+
+                entity.Property(e => e.NamaPizza)
+                    .HasMaxLength(200)
+                    .HasColumnName("nama_pizza");
+
+                entity.Property(e => e.Pcs)
+                    .HasMaxLength(100)
+                    .HasColumnName("pcs");
             });
 
             OnModelCreatingPartial(modelBuilder);

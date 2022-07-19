@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Programming2_UAS
 build_property.RootNamespace = Programming2_UAS
-build_property.ProjectDir = c:\uas_kelompok1\Programming2 UAS\
+build_property.ProjectDir = C:\uas_kelompok1\Programming2 UAS\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\uas_kelompok1\Programming2 UAS
+build_property.MSBuildProjectDirectory = C:\uas_kelompok1\Programming2 UAS
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/uas_kelompok1/Programming2 UAS/App.razor]
+[C:/uas_kelompok1/Programming2 UAS/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/Counter.razor]
+[C:/uas_kelompok1/Programming2 UAS/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/FetchData.razor]
+[C:/uas_kelompok1/Programming2 UAS/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/Index.razor]
+[C:/uas_kelompok1/Programming2 UAS/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/Masterpizza.razor]
+[C:/uas_kelompok1/Programming2 UAS/Pages/Masterpizza.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVycGl6emEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Shared/SurveyPrompt.razor]
+[C:/uas_kelompok1/Programming2 UAS/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/_Imports.razor]
+[C:/uas_kelompok1/Programming2 UAS/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Shared/MainLayout.razor]
+[C:/uas_kelompok1/Programming2 UAS/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-f1jkz2inqc
 
-[c:/uas_kelompok1/Programming2 UAS/Shared/NavMenu.razor]
+[C:/uas_kelompok1/Programming2 UAS/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ykao5c02ev
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/Error.cshtml]
+[C:/uas_kelompok1/Programming2 UAS/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/_Host.cshtml]
+[C:/uas_kelompok1/Programming2 UAS/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/uas_kelompok1/Programming2 UAS/Pages/_Layout.cshtml]
+[C:/uas_kelompok1/Programming2 UAS/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

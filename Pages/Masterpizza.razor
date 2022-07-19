@@ -29,45 +29,45 @@
                             <td>@p.ukuranpizzaDeskirpsi</td>
                             <td>@p.JenisSaus</td>
                             <td>@p.Crust</td>
-                            <td><button class="btn btn-primary" @onclick="() =>selpizza(p)">Select</button>
-                            </td> 
-                            
+                                <td><button class="btn btn-primary" @onclick="() => selpizza(p)">Select</button>
+                                </td>
                             </tr>
 
                     }
                 </tbody>
                 </table>
-                <EditForm Model=@pzz OnValidSubmit="SaveData">
-                    <DataAnnotationsValidator/>
+                  <EditForm Model=pzz OnValidSubmit="SaveData">
+                    <DataAnnotationsValidator />
 
                     <div class="form-group">
                         <label for="namaPizza">nama pizza</label>
                         <InputText @bind-Value=pz.NamaPizza class="form-control" id="namaPizza"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="ukuranPizza">ukuranPizza</label>
+                        <InputSelect @bind-Value=pz.UkuranPizza class="form-control" id="ukuranPizza">
+                        <option value="1" selected> Besar </option>
+                        <option value="2">Kecil</option>
+                        </InputSelect>
                         </div>
                         <div class="form-group">
-                            <label for="up">ukuran pizza</label>
-                            <InputSelect @bind-Value=pz.UkuranPizza class="form-control" id="up">
-                            <option value="1" selected>Besar</option>
-                            <option value="2">kecil</option>
-                            </InputSelect>
+                            <label for="jenisSaus">jenisSaus</label>
+                            <InputText @bind-Value=pz.JenisSaus class="form-control" id="jenisSaus"/>
                         </div>
-                            <div class="form-group">
-                                <label for="jenisSaus">jenis saus</label>
-                                <InputText @bind-Value=pz.JenisSaus class="form-control" id="jenisSaus"/>
-                                </div>
-                                <div class="form-group">
-                                    <label for="Crust">crust</label>
-                                    <InputText @bind-Value=pz.Crust class="form-control" id="Crust"/>
-                                </div>
-                               @if(pz.Id == 0){
-                                <input type="submit" class="btn btn-primary" value="save"/>
-                               } else{
-                                <input type="submit" class="btn btn-primary" value="update"/>
-                                <button class="btn btn-secondary" @onclick="deletepz">delete</button>
-                                <button class="btn btn-secondary" @onclick="cancelpz">cancel</button>
-                               }
-                                
-                </EditForm>               
+                        <div class="form-group">
+                            <label for="crust">crust</label>
+                            <InputText @bind-Value=pz.Crust class="form-control" id="crust"/>
+                            </div>
+                          @if(pz.Id == 0){
+                            <input type="submit" class="btn btn-primary" value="Save"/>
+
+                          } else {
+                            <input type="submit" class="btn btn-primary" value="update"/>
+                            <button class="btn btn-secondary" @onclick="deletepz">delete</button>
+                            <button class="btn btn-secondary" @onclick="cancelpz">cancel</button>
+                          }
+                  </EditForm>
+
 }
 
 @code {
@@ -88,14 +88,18 @@
                 JenisSaus = pz.JenisSaus,
                 Crust = pz.Crust
             };
+
         }
             void SaveData(EditContext e){
                 if(pz.Id == 0){
                     pzz.addpizza(pz);
-                    notif ="sukses dalam melakukan add";
-                }else{
-                    pzz.updatepizza(pz);
+                    notif ="sukses dalam melakukan add";                    
+                    
+                     pzz.updatepizza(pz);
                     notif ="data sukses di update";
+                }else{
+                     pzz.updatepizza(pz);
+                    notif ="data sukses di update";                   
                     StateHasChanged();
                 }
                 pz= new Pizza();
