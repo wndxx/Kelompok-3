@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\uas_kelompok1\\Programming2 UAS\\Programming2 UAS.csproj": {}
+    "D:\\UAS_Pemrograman2_Kelompok1\\Programming2 UAS\\Programming2 UAS.csproj": {}
   },
   "projects": {
-    "C:\\uas_kelompok1\\Programming2 UAS\\Programming2 UAS.csproj": {
+    "D:\\UAS_Pemrograman2_Kelompok1\\Programming2 UAS\\Programming2 UAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\uas_kelompok1\\Programming2 UAS\\Programming2 UAS.csproj",
+        "projectUniqueName": "D:\\UAS_Pemrograman2_Kelompok1\\Programming2 UAS\\Programming2 UAS.csproj",
         "projectName": "Programming2 UAS",
-        "projectPath": "C:\\uas_kelompok1\\Programming2 UAS\\Programming2 UAS.csproj",
-        "packagesPath": "C:\\Users\\chaya nanda\\.nuget\\packages\\",
-        "outputPath": "C:\\uas_kelompok1\\Programming2 UAS\\obj\\",
+        "projectPath": "D:\\UAS_Pemrograman2_Kelompok1\\Programming2 UAS\\Programming2 UAS.csproj",
+        "packagesPath": "C:\\Users\\aldip\\.nuget\\packages\\",
+        "outputPath": "D:\\UAS_Pemrograman2_Kelompok1\\Programming2 UAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chaya nanda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aldip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

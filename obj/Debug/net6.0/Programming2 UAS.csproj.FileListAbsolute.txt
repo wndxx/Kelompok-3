@@ -34,3 +34,39 @@ C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.
 C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\MySqlConnector.dll
 C:\uas_kelompok1\Programming2 UAS\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\uas_kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.CopyComplete
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\appsettings.Development.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\appsettings.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.staticwebassets.runtime.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.exe
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.deps.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.runtimeconfig.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Programming2 UAS.pdb
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Humanizer.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\MySqlConnector.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.AssemblyReference.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.AssemblyInfoInputs.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.AssemblyInfo.cs
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.CoreCompileInputs.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.MvcApplicationPartsAssemblyInfo.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.RazorAssemblyInfo.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.RazorAssemblyInfo.cs
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\staticwebassets.build.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\staticwebassets.development.json
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\bundle\Programming2 UAS.styles.css
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\scopedcss\projectbundle\Programming2 UAS.bundle.scp.css
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.csproj.CopyComplete
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\refint\Programming2 UAS.dll
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.pdb
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\Programming2 UAS.genruntimeconfig.cache
+D:\UAS_Pemrograman2_Kelompok1\Programming2 UAS\obj\Debug\net6.0\ref\Programming2 UAS.dll
