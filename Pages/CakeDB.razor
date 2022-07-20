@@ -1,0 +1,129 @@
+@page "/mastercake"
+@using ModelDB
+@using Services
+@using Blazored.SessionStorage
+@using Blazored.LocalStorage
+
+@inject CakeDBService cks
+@inject ISessionStorageService session;
+@inject ILocalStorageService ls;
+
+<PageTitle>Buddhi Bakery</PageTitle>
+<h1>Buddhi Bakery</h1>
+@if(!String.IsNullOrEmpty(username) || !String.IsNullOrEmpty(usernameLS)){
+    <p>Selamat Datang, @username , Local Storage : @usernameLS</p>
+}
+@if(notif != null) {
+    <Programming2.Component.MessageBar Body="@notif" />
+}
+@if(allck == null) {
+    <p><em>loading data...</em></p>
+}else{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Harga</th>
+                <th>Nama</th>
+                <th>Stok</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var c in allck){
+                <tr>
+                    <td>@c.Harga</td>
+                    <td>@c.Nama</td>
+                    <td>@c.Stok</td>   
+                    <td> <button class="btn btn-primary" @onclick="() => selck(c)">Select</button>
+                    </td> 
+                </tr>
+            }
+        </tbody> 
+    </table>
+
+    <EditForm Model=@cks OnValidSubmit="SaveData">
+        <DataAnnotationsValidator />
+    
+        <div class="form-group">
+            <label for="Harga">Harga</label>
+            <InputText @bind-Value=ck.Harga class="form-control" id="Harga" />
+        </div>
+        <div class="form-group">
+            <label for="Nama">Nama</label>
+            <InputText @bind-Value=ck.Nama class="form-control" id="Nama" />
+        </div>
+        <div class="form-group">
+            <label for="Stok">Stok</label>
+            <InputSelect @bind-Value=ck.Stok class="form-control" id="Stok">
+                <option value="1" selected>Stok Ada</option>
+                <option value="0">Stok Kosong</option>
+            </InputSelect>
+        </div>  
+        @if( ck.Id == 0) {
+            <input type="submit" class="btn btn-primary" value="Save"/>
+        }  else {
+            <input type="submit" class="btn btn-primary" value="Update"/>
+        }
+    </EditForm>
+        @if( ck.Id != 0) {
+            <button class="btn btn-secondary" @onclick="deleteck">Delete</button>            
+            <button class="btn btn-secondary" @onclick="cancelck">Cancel</button>
+        }  
+}
+
+
+@code {
+    private string notif = null;
+    private List<Cake>? allck;
+
+    private Cake ck = new Cake();
+
+    protected override async Task OnInitializedAsync()
+    {
+       allck = cks.GetCake();
+    }
+    string username, usernameLS;
+    protected override async Task OnAfterRenderAsync(bool f) {
+            if(f) {
+                username = await session.GetItemAsync<string>("Username");
+                usernameLS = await ls.GetItemAsync<string>("Username");
+                StateHasChanged();
+            }
+    }
+
+    void selck(Cake ck) {
+        this.ck = new Cake() {
+            Id = ck.Id,
+            Harga = ck.Harga,
+            Nama = ck.Nama,
+            Stok = ck.Stok
+        };
+    }
+     void SaveData(EditContext e){
+        if(ck.Id == 0)  {
+            cks.addCake(ck);
+            notif = "Sukses Save Data";
+        }else{
+            cks.updateCake(ck);
+            notif = "Sukses Update Data";
+            StateHasChanged();
+        }
+        ck = new Cake();
+        allck = cks.GetCake();
+    }
+    void deleteck() {
+        try{
+            cks.deleteCake(ck);
+            ck = new Cake();
+            allck = cks.GetCake();
+            notif = "Sukses delete";
+            StateHasChanged();
+        }catch{
+            notif = "Gagal delete";
+        }
+    }
+
+    void cancelck(){
+        ck = new Cake();
+    }
+}

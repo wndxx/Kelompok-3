@@ -1,0 +1,144 @@
+D:\Programming2\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming2\bin\Debug\net6.0\appsettings.json
+D:\Programming2\bin\Debug\net6.0\Programming2.staticwebassets.runtime.json
+D:\Programming2\bin\Debug\net6.0\Programming2.exe
+D:\Programming2\bin\Debug\net6.0\Programming2.deps.json
+D:\Programming2\bin\Debug\net6.0\Programming2.runtimeconfig.json
+D:\Programming2\bin\Debug\net6.0\Programming2.dll
+D:\Programming2\bin\Debug\net6.0\Programming2.pdb
+D:\Programming2\obj\Debug\net6.0\Programming2.csproj.AssemblyReference.cache
+D:\Programming2\obj\Debug\net6.0\Programming2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming2\obj\Debug\net6.0\Programming2.AssemblyInfoInputs.cache
+D:\Programming2\obj\Debug\net6.0\Programming2.AssemblyInfo.cs
+D:\Programming2\obj\Debug\net6.0\Programming2.csproj.CoreCompileInputs.cache
+D:\Programming2\obj\Debug\net6.0\Programming2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming2\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cache
+D:\Programming2\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cs
+D:\Programming2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Programming2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Programming2\obj\Debug\net6.0\scopedcss\bundle\Programming2.styles.css
+D:\Programming2\obj\Debug\net6.0\scopedcss\projectbundle\Programming2.bundle.scp.css
+D:\Programming2\obj\Debug\net6.0\Programming2.dll
+D:\Programming2\obj\Debug\net6.0\refint\Programming2.dll
+D:\Programming2\obj\Debug\net6.0\Programming2.pdb
+D:\Programming2\obj\Debug\net6.0\Programming2.genruntimeconfig.cache
+D:\Programming2\obj\Debug\net6.0\ref\Programming2.dll
+D:\Programming2\bin\Debug\net6.0\Humanizer.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming2\bin\Debug\net6.0\MySqlConnector.dll
+D:\Programming2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Programming2\obj\Debug\net6.0\Programming2.csproj.CopyComplete
+D:\Programming2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Programming2\bin\Debug\net6.0\MudBlazor.dll
+D:\Programming2\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Programming2\bin\Debug\net6.0\FluentValidation.dll
+D:\Programming2\bin\Debug\net6.0\Blazored.SessionStorage.dll
+D:\Programming2\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\appsettings.json
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.staticwebassets.runtime.json
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.exe
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.deps.json
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.runtimeconfig.json
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Programming2.pdb
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Blazored.SessionStorage.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\FluentValidation.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Humanizer.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\MudBlazor.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\MySqlConnector.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.csproj.AssemblyReference.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.AssemblyInfoInputs.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.AssemblyInfo.cs
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.csproj.CoreCompileInputs.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cs
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\scopedcss\bundle\Programming2.styles.css
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\scopedcss\projectbundle\Programming2.bundle.scp.css
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.csproj.CopyComplete
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\refint\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.pdb
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\Programming2.genruntimeconfig.cache
+D:\Programming Language\Pemro2_After UTS\Contoh\obj\Debug\net6.0\ref\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\appsettings.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.staticwebassets.runtime.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.exe
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.deps.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.runtimeconfig.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Programming2.pdb
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Blazored.SessionStorage.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\FluentValidation.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Humanizer.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\MudBlazor.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\MySqlConnector.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.csproj.AssemblyReference.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.AssemblyInfoInputs.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.AssemblyInfo.cs
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.csproj.CoreCompileInputs.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.RazorAssemblyInfo.cs
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\scopedcss\bundle\Programming2.styles.css
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\scopedcss\projectbundle\Programming2.bundle.scp.css
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.csproj.CopyComplete
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\refint\Programming2.dll
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.pdb
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\Programming2.genruntimeconfig.cache
+D:\Programming Language\Pemro2_After UTS\BackUp New\obj\Debug\net6.0\ref\Programming2.dll

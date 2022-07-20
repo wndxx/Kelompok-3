@@ -1,0 +1,135 @@
+@page "/listcake"
+
+@using ModelDB
+@using Services
+@using FluentValidation
+
+@inject CakeDBService cks
+@inject ISnackbar sn
+
+<PageTitle>Buddhi Bakery</PageTitle>
+<h1>Buddhi Bakery</h1>
+@if(notif != null) {
+    <Programming2.Component.MessageBar Body="@notif" />
+}
+@if(allck == null) {
+    <p><em>loading data...</em></p>
+}else{
+
+    <MudDataGrid T="Cake" Items="@allck" Sortable="true" Filterable="true" 
+        QuickFilter="@_quickFilter"
+        Hideable="true" RowClick="@RowClicked" >
+        <ToolBarContent>
+            <MudText Typo="Typo.h6">Buddhi Bakery</MudText>
+            <MudSpacer />
+            <MudTextField @bind-Value="_searchString" Placeholder="Search" Adornment="Adornment.Start" Immediate="true"
+                AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        </ToolBarContent>
+        <Columns>
+            <Column T="Cake" Field="Id" />
+            <Column T="Cake" Field="Harga" />
+            <Column T="Cake" Field="Nama"  />
+            <Column T="Cake" Field="StokDeskripsi" />
+        </Columns>
+        <PagerContent>
+            <MudDataGridPager T="Cake" />
+        </PagerContent>
+    </MudDataGrid>
+    
+<MudCard>
+	<MudForm Model="@ck" @ref="@form" Validation="@(mhswValidator.ValidateValue)" ValidationDelay="0">
+		<MudCardContent>
+				<MudTextField Value="@ck.Id"                              
+							  For="@(() => ck.Id)"
+                              ReadOnly = "true"
+							  Immediate="true"
+							  Label="Id" />
+
+				<MudTextField @bind-Value="ck.Harga"
+							  For="@(() => ck.Harga)"
+							  Immediate="true"
+							  Label="Harga" />
+
+				<MudTextField @bind-Value="ck.Nama"
+							  For="@(() => ck.Nama)"
+							  Immediate="true"
+							  Label="Nama" />
+        </MudCardContent>		
+	</MudForm>
+    <MudCardActions>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto" OnClick="@(async () => await Submit())">Order</MudButton>
+    </MudCardActions>
+</MudCard>
+
+}
+
+
+@code {
+    private string notif = null;
+    private IEnumerable<Cake> allck = new List<Cake>();
+    private string _searchString;
+    MudForm form;
+    MahasiswaFluentValidator mhswValidator = new MahasiswaFluentValidator();
+
+    private Cake ck = new Cake();
+
+    protected override async Task OnInitializedAsync()
+    {
+       allck = cks.GetCake();
+    }
+
+    private Func<Cake, bool> _quickFilter => x =>
+    {
+        if (string.IsNullOrWhiteSpace(_searchString))
+            return true;
+
+        if (x.Harga.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        if (x.Nama.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        if (x.StokDeskripsi.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        
+        return false;
+    };
+
+     void RowClicked(DataGridRowClickEventArgs<Cake> args)
+    {
+        ck  = args.Item;
+    }
+
+
+
+    private async Task Submit()
+    {
+    }
+
+public class MahasiswaFluentValidator : AbstractValidator<Cake>
+    {
+        public MahasiswaFluentValidator()
+        {
+            RuleFor(x => x.Harga)
+                .NotEmpty()
+                .Length(8,10);
+
+            RuleFor(x => x.Nama)
+                .NotEmpty()
+                .Length(3,100);
+
+
+		}
+
+        public Func<object, string, Task<IEnumerable<string>>> ValidateValue => async (model, propertyName) =>
+        {
+            var result = await ValidateAsync(ValidationContext<Cake>.CreateWithOptions((Cake)model, x => x.IncludeProperties(propertyName)));
+            if (result.IsValid)
+                return Array.Empty<string>();
+            return result.Errors.Select(e => e.ErrorMessage);
+        };
+    }
+
+}
+
+

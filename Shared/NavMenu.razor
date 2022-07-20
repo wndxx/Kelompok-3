@@ -1,0 +1,76 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Kelompok3</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="mastercake">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Buddhi Bakery
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="listcake">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Buddhi Bakery List
+            </NavLink>
+        </div>
+
+
+
+
+
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Crystian">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Crystian
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Kelvin Gautama">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Kelvin Gautama
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Pedro">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Pedro
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Riski Ronaldo">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Riski Ronaldo
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Windi">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Windi
+            </NavLink>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
