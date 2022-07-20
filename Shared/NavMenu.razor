@@ -1,0 +1,44 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">UASPemrograman2</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+                <div class="nav-item px-3">
+            <NavLink class="nav-link" href="MasterPembeli">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Master Pembeli
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="MasterFilm">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Master Film
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="TransaksiTiket">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Transaksi Tiket
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Laporan">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Laporan
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
