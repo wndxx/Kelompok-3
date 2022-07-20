@@ -1,0 +1,116 @@
+﻿@page "/TransaksiTiket"
+@using System.ComponentModel.DataAnnotations
+@using ModelDB
+@using MudBlazor
+@using Service
+
+@inject TiketService Tiket
+@inject IFilmService Film
+@inject IPembeliService Pmb
+
+@if( AllTiket != null) {
+<PageTitle>Transaksi</PageTitle>
+    <h1>Transaksi</h1>
+    <br />
+<MudTable Items="@AllTiket" Hover="true" Breakpoint="Breakpoint.Sm" Loading="@_loading" LoadingProgressColor="Color.Info">
+    <HeaderContent>
+        <MudTh>Id</MudTh>
+        <MudTh>Nama</MudTh>
+        <MudTh>Nama Film</MudTh>
+        <MudTh>Tanggal</MudTh>
+        <MudTh>Harga</MudTh>
+        <MudTh>Jam</MudTh>
+        <MudTh></MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.IdTiket</MudTd>
+        <MudTd DataLabel="Nama">@context.NamaPembeli</MudTd>
+        <MudTd DataLabel="Judul">@context.NamaFilm</MudTd>
+        <MudTd DataLabel="Tanggal">@context.Tanggal</MudTd>
+        <MudTd DataLabel="Harga">@context.Harga</MudTd>
+        <MudTd DataLabel="Jam">@context.Jam</MudTd>
+        <MudTd>
+            <MudButton Variant="Variant.Filled" Color="Color.Error" @onclick="()=>OnButtonClicked(context)" >Delete</MudButton>
+        </MudTd>
+    </RowTemplate>
+</MudTable>
+}
+<br/>
+<EditForm Model="@Model" OnValidSubmit="OnValidSubmit">
+<DataAnnotationsValidator/>
+<MudGrid>
+    <MudItem xs="12" sm="12">
+        <MudCard>
+            <MudCardContent>       
+                <MudSelect @bind-Value="Model.IdPembeli" Label="Nama Pembeli">
+                    @foreach(var m in AllPembeli){
+                         <MudSelectItem Value="@m.IdPembeli">
+                            @m.NamaPembeli</MudSelectItem>
+                    }
+                </MudSelect>   
+                <MudSelect @bind-Value="Model.IdFilm" Label="Nama Film">
+                    @foreach(var m in AllFilm){
+                         <MudSelectItem Value="@m.IdFilm">
+                             @m.NamaFilm</MudSelectItem>
+                    }
+                </MudSelect>     
+                <MudTextField Label="Format Tanggal (dd-mm-yyyy)" Class="mt-3"
+                              @bind-Value="Model.Tanggal" For="@(() => Model.Tanggal)"/>      
+            </MudCardContent>
+            <MudCardActions>
+                <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Simpan</MudButton>
+            </MudCardActions>
+        </MudCard>
+    </MudItem>
+</MudGrid>
+</EditForm>
+
+@code {
+    FormTiket Model = new FormTiket();
+    bool success;    
+    List<FormTiket> AllTiket = new List<FormTiket>();
+    List<Film> AllFilm = new List<Film>();
+    List<Pembeli>? AllPembeli= new List<Pembeli>();
+    bool _loading = false;
+    protected override async Task OnInitializedAsync()
+    {
+        loadData();
+    }
+
+
+    public async void loadData(){
+        _loading = true;
+        Model = new FormTiket();
+        await InvokeAsync(StateHasChanged);
+        AllTiket = await Tiket.GetTikets();
+        AllPembeli = await Pmb.GetPembeli();
+        AllFilm = await Film.GetFilm();
+        _loading = false;
+        StateHasChanged(); 
+    }
+    
+    private async void OnValidSubmit(EditContext context)
+    {
+        Tiket.AddTiket(Model.ToBase());
+        loadData();     
+    }
+    void DelTiket(FormTiket i)
+    {
+        Model = i;
+        Tiket.DelTiket(Model.ToBase());
+        loadData();
+    }
+   [Inject] private IDialogService DialogService { get; set; }
+    private async Task OnButtonClicked(FormTiket i)
+    {
+        bool? result = await DialogService.ShowMessageBox(
+            "KONFIRMASI HAPUS", 
+            $"Apakah Anda yakin ingin menghapus transaksi dengan id {i.IdTiket}?", 
+            yesText:"Delete!", cancelText:"Cancel");
+        StateHasChanged();
+
+        if(result?? false){
+            DelTiket(i);
+        }
+    }
+}
