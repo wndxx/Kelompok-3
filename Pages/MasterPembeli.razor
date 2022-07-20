@@ -1,0 +1,113 @@
+﻿@page "/MasterPembeli"
+@using System.ComponentModel.DataAnnotations
+@using ModelDB
+@using MudBlazor
+@using Service
+
+@inject IPembeliService Pmb
+
+@if( AllPembeli != null) {
+<PageTitle>Pembeli</PageTitle>
+<h1>Pembeli</h1>
+<br />
+<MudTable Items="@AllPembeli" Hover="true" Breakpoint="Breakpoint.Sm" Loading="@_loading" LoadingProgressColor="Color.Info">
+    <HeaderContent>
+        <MudTh>Id</MudTh>
+        <MudTh>Nama</MudTh>
+        <MudTh>Umur</MudTh>
+        <MudTh></MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.IdPembeli</MudTd>
+        <MudTd DataLabel="Nama">@context.NamaPembeli</MudTd>
+        <MudTd DataLabel="Umur">@context.Umur</MudTd>
+        <MudTd><MudLink @onclick="@(() => PembeliSelect(context))">Select</MudLink></MudTd>
+    </RowTemplate>
+</MudTable>
+}
+<br />
+<EditForm Model="@Model" OnValidSubmit="OnValidSubmit">
+<DataAnnotationsValidator/>
+<MudGrid>
+    <MudItem xs="12" sm="7">
+        <MudCard>
+            <MudCardContent>
+                <MudTextField Label="Nama Pembeli" HelperText="Minimal 3 Karakter" Class="mt-3"
+                              @bind-Value="Model.NamaPembeli" For="@(() => Model.NamaPembeli)"/>
+                <MudTextField Label="Umur Pembeli"  Class="mt-3"
+                              @bind-Value="Model.Umur" For="@(() => Model.Umur)"/>
+            </MudCardContent>
+            <MudCardActions>
+                <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Simpan</MudButton>
+                @if(Model.IdPembeli > 0){
+                <MudButton OnClick="DelPembeli" Variant="Variant.Filled" Color="Color.Secondary" Class="ml-auto">Delete</MudButton>
+                }
+            </MudCardActions>
+        </MudCard>
+    </MudItem>
+    <MudItem xs="12" sm="5">
+        <MudPaper Class="pa-4 mud-height-full">
+            <MudText Typo="Typo.subtitle2">Validation Summary</MudText>
+            @if (success)
+            {
+                <MudText Color="Color.Success">Success</MudText>
+            }
+            else
+            {
+                <MudText Color="@Color.Error">
+                    <ValidationSummary />
+                </MudText>
+            }
+        </MudPaper>
+    </MudItem>
+    <MudItem xs="12">
+        <MudText Typo="Typo.body2" Align="Align.Center">
+            Fill out the form correctly to see the success message.
+        </MudText>
+    </MudItem>
+</MudGrid>
+</EditForm>
+
+@code {
+    PembeliForm Model = new PembeliForm();
+    bool success;    
+    List<Pembeli> AllPembeli = new List<Pembeli>();
+    bool _loading = false;
+    protected override async Task OnInitializedAsync()
+    {
+        loadData();
+    }
+    void PembeliSelect(Pembeli P)
+    {
+        Model = new PembeliForm{
+            IdPembeli = P.IdPembeli,
+            NamaPembeli = P.NamaPembeli,
+            Umur= P.Umur
+        };
+    }
+    private async void OnValidSubmit(EditContext context)
+    {
+        if(Model.IdPembeli > 0){
+            Pmb.UpdPembeli(Model.ToBase());
+        }else{
+            Pmb.AddPembeli(Model.ToBase()); 
+        }
+        loadData();
+        
+    }
+
+    public async void loadData(){
+        _loading = true;
+        Model = new PembeliForm();
+        await InvokeAsync(StateHasChanged);
+        AllPembeli = await Pmb.GetPembeli();
+        _loading = false;
+        StateHasChanged(); 
+    }
+
+    private void DelPembeli(EventArgs e){
+        Pmb.DelPembeli(Model.ToBase());
+        Model = new PembeliForm();
+        loadData();
+    }
+}
