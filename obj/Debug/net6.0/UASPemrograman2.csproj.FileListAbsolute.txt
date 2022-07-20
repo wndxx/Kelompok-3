@@ -1,0 +1,306 @@
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+C:\Users\Jason\Desktop\TUGAS KULIAHHHHHHH\Semester 4\pemrogramman 2\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+G:\Download\UAS Pemograman2\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
+T:\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+T:\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+T:\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+T:\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+T:\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+T:\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+T:\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+T:\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+T:\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+T:\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+T:\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+T:\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+T:\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+T:\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+T:\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+T:\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+T:\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+T:\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+T:\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+T:\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+C:\Users\Betran\Desktop\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+E:\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.staticwebassets.runtime.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.exe
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.deps.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.runtimeconfig.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Markdig.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MudBlazor.Markdown.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.AssemblyInfo.cs
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.RazorAssemblyInfo.cs
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\bundle\UASPemrograman2.styles.css
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\scopedcss\projectbundle\UASPemrograman2.bundle.scp.css
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.csproj.CopyComplete
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\refint\UASPemrograman2.dll
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.pdb
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\UASPemrograman2.genruntimeconfig.cache
+C:\Users\User\Documents\STANLEY ANANDA\Pemrograman\Pemrograman 2\UASTiketBioskopOnline\UASPemrograman2\obj\Debug\net6.0\ref\UASPemrograman2.dll
