@@ -1,0 +1,71 @@
+﻿@page "/Laporan"
+@using System.ComponentModel.DataAnnotations
+@using ModelDB
+@using MudBlazor
+@using Service
+
+@inject TiketService Tiket
+@inject IFilmService Film
+@inject IPembeliService Pmb
+
+@if( AllTiket != null) {
+    <PageTitle>Laporan</PageTitle>
+    <h1>Laporan</h1>
+    <br />
+<MudTable Items="@AllTiket" Hover="true" Breakpoint="Breakpoint.Sm" Loading="@_loading" LoadingProgressColor="Color.Info">
+    <HeaderContent>
+        <MudTh>Id</MudTh>
+        <MudTh>Nama</MudTh>
+        <MudTh>Nama Film</MudTh>
+        <MudTh>Tanggal</MudTh>
+        <MudTh>Harga</MudTh>
+        <MudTh>Jam</MudTh>
+        <MudTh></MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Id">@context.IdTiket</MudTd>
+        <MudTd DataLabel="Nama">@context.NamaPembeli</MudTd>
+        <MudTd DataLabel="Judul">@context.NamaFilm</MudTd>
+        <MudTd DataLabel="Tanggal">@context.Tanggal</MudTd>
+        <MudTd DataLabel="Harga">@context.Harga</MudTd>
+        <MudTd DataLabel="Jam">@context.Jam</MudTd>
+    </RowTemplate>
+</MudTable>
+}
+
+@code {
+    FormTiket Model = new FormTiket();
+    bool success;    
+    List<FormTiket> AllTiket = new List<FormTiket>();
+    List<Film> AllFilm = new List<Film>();
+    List<Pembeli>? AllPembeli= new List<Pembeli>();
+    bool _loading = false;
+    protected override async Task OnInitializedAsync()
+    {
+        loadData();
+    }
+
+
+    public async void loadData(){
+        _loading = true;
+        Model = new FormTiket();
+        await InvokeAsync(StateHasChanged);
+        AllTiket = await Tiket.GetTikets();
+        AllPembeli = await Pmb.GetPembeli();
+        AllFilm = await Film.GetFilm();
+        _loading = false;
+        StateHasChanged(); 
+    }
+    
+    private async void OnValidSubmit(EditContext context)
+    {
+        Tiket.AddTiket(Model.ToBase());
+        loadData();        
+    }
+    void DelTiket(FormTiket i)
+    {
+        Model = i;
+        Tiket.DelTiket(Model.ToBase());
+        loadData();
+    }
+}
